@@ -1,6 +1,6 @@
 # Windows-2003-x86-SP3-KB2942844
 
-<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20abandoned&failingText=master%20-%20Abandoned" alt="Project Badge">
+<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Project%20is%20-%20abandoned&failingText=master%20-%20Abandoned" alt="Project Badge">
 
 Welcome to Windows Server 2003 Service Pack 3. This will update your system with 6 Post SP2 Updates.
 
