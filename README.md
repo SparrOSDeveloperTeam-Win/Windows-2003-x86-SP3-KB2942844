@@ -1,7 +1,6 @@
 # Windows-2003-x86-SP3-KB2942844
 
-[![Project Now Abandoned]
-]
+(Project now abandoned)
 
 Welcome to Windows Server 2003 Service Pack 3. This will update your system with 6 Post SP2 Updates.
 
